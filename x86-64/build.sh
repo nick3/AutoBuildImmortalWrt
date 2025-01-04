@@ -22,12 +22,6 @@ PACKAGES="$PACKAGES luci-proto-ipv6"
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash" 
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
-PACKAGES="$PACKAGES luci-app-ddns-go" 
-PACKAGES="$PACKAGES luci-app-softethervpn"
-PACKAGES="$PACKAGES luci-i18n-softethervpn-zh-cn"
-PACKAGES="$PACKAGES luci-app-frps"
-PACKAGES="$PACKAGES luci-i18n-frps-zh-cn" 
-PACKAGES="$PACKAGES luci-app-nps"
 PACKAGES="$PACKAGES openssh-sftp-server"
 
 # 判断是否需要编译 Docker 插件
